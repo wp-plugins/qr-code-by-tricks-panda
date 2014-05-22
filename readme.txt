@@ -1,4 +1,4 @@
-=== QR Code By Tricks Panda ===
+=== Generate QR Code ===
 Plugin URI: http://www.trickspanda.com
 Description: Add QR codes to your WordPress with shortcodes and a user-friendly button.
 Version: 1.0

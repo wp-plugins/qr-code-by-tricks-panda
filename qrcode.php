@@ -1,5 +1,6 @@
 <?php
-/* Plugin Name: QR Code By Tricks Panda
+/*
+Plugin Name: Generate QR Code
 Plugin URI: http://www.trickspanda.com
 Description: Add QR codes to your WordPress with shortcodes.
 Version: 1.0
