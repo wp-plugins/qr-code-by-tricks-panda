@@ -3,7 +3,7 @@ Plugin URI: http://www.trickspanda.com
 Description: Add QR codes to your WordPress with shortcodes and a user-friendly button.
 Version: 1.0
 Requires at least: 2.5
-Tested up to: 4.0
+Tested up to: 4.1
 Contributors: hardeepasrani
 Author URI: http://www.hardeepasrani.com
 Tags: qrcode, shortocode, url, link, qr code, generator
